@@ -1,0 +1,20 @@
+li
+{ list-style:none;   
+margin-bottom: 20px;   }
+
+
+label
+   { display:block; 
+   	cursor:pointer;
+   	color:grey;
+   	font-family:sans-serif;
+   	padding-bottom: 5px
+   }
+
+textarea{
+
+	width: 400px;
+	height: 200px;
+}
+
+
